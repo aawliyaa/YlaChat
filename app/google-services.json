@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495468732990",
+    "firebase_url": "https://yla-chat.firebaseio.com",
+    "project_id": "yla-chat",
+    "storage_bucket": "yla-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495468732990:android:5e3598f15345276d",
+        "android_client_info": {
+          "package_name": "aziz.ca.ylachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495468732990-ivhsd86a2991n1es73n7slm3iuaqclqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aziz.ca.ylachat",
+            "certificate_hash": "79b4337ba8456d116f1427a137e85f88eb460c57"
+          }
+        },
+        {
+          "client_id": "495468732990-22etjqm2tinebkn96liilkpl1u1hkdi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMhYo5Wf4o-JMfxNWubMB2PRZttzxCVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495468732990-22etjqm2tinebkn96liilkpl1u1hkdi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

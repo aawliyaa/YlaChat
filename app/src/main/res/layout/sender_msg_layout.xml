@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="125dp">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="170dp"
+        android:layout_height="98dp"
+        android:background="@drawable/sender_message_shape"
+        tools:layout_editor_absoluteX="198dp"
+        tools:layout_editor_absoluteY="13dp">
+
+        <TextView
+            android:id="@+id/messageText2"
+            android:layout_width="wrap_content"
+            android:layout_height="33dp"
+            android:text="Hello"
+            android:textAlignment="viewStart"
+            android:textColor="@color/cardview_light_background"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <TextView
+            android:id="@+id/timeText2"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:text="10:10 am"
+            android:textColor="@color/cardview_light_background"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="66dp" />
+
+    </android.support.constraint.ConstraintLayout>
+</android.support.constraint.ConstraintLayout>
