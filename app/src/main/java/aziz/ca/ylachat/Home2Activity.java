@@ -20,8 +20,6 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 /**
  * now the app is sign in/out ready
- *
- * next to do is addFri
  * next my friends
  * log out is done :)
  */
